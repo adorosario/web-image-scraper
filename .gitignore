@@ -40,6 +40,7 @@ ENV/
 
 # Scraped Images
 images/
+rag-images/
 
 # Operating System Files
 .DS_Store
